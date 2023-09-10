@@ -1,7 +1,7 @@
+import gensim
 import streamlit as st
 import pandas as pd
 import numpy as np
-import gensim
 
 @st.cache_resource
 def cache_list():
